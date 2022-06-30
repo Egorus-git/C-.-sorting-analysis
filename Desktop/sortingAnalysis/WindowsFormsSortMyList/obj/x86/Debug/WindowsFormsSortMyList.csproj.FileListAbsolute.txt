@@ -1,0 +1,67 @@
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\ПМ Курсовая\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БПМ2001 2 сем\Пузырек очередь 0\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Шаблоны\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplate\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БПМ2001 2 сем\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БИБ20_\Лекция 6\Интерфейсы\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\MAG\C#\БИБ20_\Лекция 6\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БИБ20_\Лекция 6\SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\MAG\C#\БИБ20_\Лекция 6\Л6_3_SortTemplateИнтерфейс\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.Cache
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.AssemblyReference.cache
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.GenerateResource.cache
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.csproj.CoreCompileInputs.cache
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\Users\ArtKravets\source\repos\WindowsFormsSortMyList\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb

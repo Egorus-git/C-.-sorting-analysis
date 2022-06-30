@@ -1,0 +1,9 @@
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.exe
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\bin\Debug\WindowsFormsSortMyList.pdb
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\Курсовая работа ТИМП.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Form1.resources
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.Properties.Resources.resources
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\Курсовая работа ТИМП.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\Курсовая работа ТИМП.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.exe
+C:\Users\Егор\source\repos\Курсовая работа ТиМП\WindowsFormsSortMyList\obj\x86\Debug\WindowsFormsSortMyList.pdb
